@@ -1,0 +1,738 @@
+[2023-05-22 08:16:53] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:17:10] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:19:06] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:19:06] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:19:06] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fb8f1502ee8cdfc1adf5157d24567884).
+[2023-05-22 08:25:10] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:25:10] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:25:11] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 955576f6abe22afdd36097eed799fcfd).
+[2023-05-22 08:25:33] [ERROR  ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+[2023-05-22 08:26:14] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:26:14] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:26:15] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fdf2f1c6a5cd272785734f6bc20648a6).
+[2023-05-22 08:26:50] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:26:50] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:26:50] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: d663436bd9490f98c0304a505b80beb4).
+[2023-05-22 08:30:26] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:30:26] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:30:27] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 856429c8c0c30983f2e154bacf8a216d).
+[2023-05-22 08:30:43] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:30:43] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:31:01] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:31:01] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:31:30] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:31:30] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:31:31] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 74f89f1a6e1e8cabaf4491cb1e71844b).
+[2023-05-22 08:31:53] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:31:53] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:31:54] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0607900b1ca8c9874d8a7abde7bb299d).
+[2023-05-22 08:41:18] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:41:18] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:42:20] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:42:20] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:42:20] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 4ad3073a6842a95e10d861befe42bc13).
+[2023-05-22 08:44:00] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:44:00] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:44:01] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1a70d5a86ea376aabecfe2e631e4f113).
+[2023-05-22 08:45:32] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:45:32] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:45:32] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 02bc5c9191b0870f22094d085723b5d6).
+[2023-05-22 08:45:34] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 08:47:28] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:47:28] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:47:28] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1cfb975c49dde4f13080b6bf7fb5fd0f).
+[2023-05-22 08:47:30] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 08:58:58] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 08:58:58] [INFO   ] discord.client: logging in using static token
+[2023-05-22 08:58:59] [INFO   ] core.modules.cog: [5m[7m[32mCargando el cog Utility[0m
+[2023-05-22 08:58:59] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e27f66ad51cb70b8939d2b5b304a736a).
+[2023-05-22 08:59:01] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:00:57] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:00:57] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:00:57] [INFO   ] core.modules.cog: Loaded cog: [5m[32mUtility[0m
+[2023-05-22 09:00:58] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fbcfcc4b081d6f95949615707beb18e2).
+[2023-05-22 09:01:00] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:01:12] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:01:12] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:01:12] [INFO   ] core.modules.cog: Loaded cog: [32mUtility[0m
+[2023-05-22 09:01:12] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f61a4e856fd608ef4f77372bfb0dcf25).
+[2023-05-22 09:01:14] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:02:05] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:02:05] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:02:05] [INFO   ] core.modules.cog: Loaded cog: [92mUtility[0m
+[2023-05-22 09:02:05] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 8d0b14dfc1dfed8de7e6c9e86fd02b1b).
+[2023-05-22 09:02:07] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:02:39] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:02:39] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:02:39] [INFO   ] core.modules.cog: Loaded cog: [1m[92mUtility[0m
+[2023-05-22 09:02:39] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 4b443ab6fc88e2887fc750d724a28046).
+[2023-05-22 09:02:41] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:02:58] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:02:58] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:02:58] [INFO   ] core.modules.cog: Loaded cog: [1m[32m<built-in method lower of str object at 0x7fa71a195ef0>[0m
+[2023-05-22 09:02:58] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1b074f98a82d08e17d8ab12e6acaf18e).
+[2023-05-22 09:03:00] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:03:08] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:03:08] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:03:08] [INFO   ] core.modules.cog: Loaded cog: [1m[32mutility[0m
+[2023-05-22 09:03:08] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ab183b05ef79be7530914f6ee71e237f).
+[2023-05-22 09:03:10] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:03:18] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:03:18] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:03:18] [INFO   ] core.modules.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:03:18] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 2fce512bb13b9917d47950b7b26c07f3).
+[2023-05-22 09:03:20] [INFO   ] core.modules.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:04:35] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:04:35] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:04:35] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:04:36] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: cacf92a2fc6f35475b8cf6ae02ca6454).
+[2023-05-22 09:04:38] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:05:23] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:05:23] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:05:23] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:05:23] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 4802e7176a562c38ec35761241a74567).
+[2023-05-22 09:05:25] [INFO   ] uni.bot: 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:05:58] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2023-05-22 09:05:58] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:05:58] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:05:58] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 077ff15fef6b1e35688aa9f23b18064d).
+[2023-05-22 09:06:00] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:07:28] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:07:29] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:07:29] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fc29b97e47c0c62db0bb2c78d7f1c9db).
+[2023-05-22 09:07:31] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:16:55] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:19:09] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:19:25] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:19:26] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:19:26] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 05815f6bcb84e459d2054539e67e0a30).
+[2023-05-22 09:19:28] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:21:40] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:21:41] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:21:41] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: dfcba9ab1ef3056a5fd1853a84fc6220).
+[2023-05-22 09:21:43] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:22:14] [ERROR  ] discord.ext.commands.bot: Ignoring exception in command jishaku
+Traceback (most recent call last):
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1647, in invoke
+    await super().invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1015, in invoke
+    await self.prepare(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 932, in prepare
+    await self._parse_arguments(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 860, in _parse_arguments
+    raise TooManyArguments('Too many arguments passed to ' + self.qualified_name)
+discord.ext.commands.errors.TooManyArguments: Too many arguments passed to jishaku
+[2023-05-22 09:23:32] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:23:32] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:23:33] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 360c20d15551e2eee83c8d66f26924bd).
+[2023-05-22 09:23:35] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:24:34] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:24:35] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:24:35] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 01a816ebf1e81a9f6d729998da658f85).
+[2023-05-22 09:24:37] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:37:38] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:37:39] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:37:40] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e931b7193f26619ae062a43f480000c5).
+[2023-05-22 09:37:42] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:38:31] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:38:31] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:38:32] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7284dd231d1cf34cac79b8b45359a68f).
+[2023-05-22 09:38:34] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:47:25] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:47:25] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:47:28] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0620196be27a0fc16809caf016c36416).
+[2023-05-22 09:47:30] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:50:18] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:50:19] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:50:20] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 994f54ddb5c4100d3f0ad4a2dc6de2aa).
+[2023-05-22 09:50:22] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:50:39] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:50:39] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:50:40] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 2af6aabcc3a21b1be8e15f259632cec2).
+[2023-05-22 09:50:42] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:53:04] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:53:04] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:53:05] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 935b9eb809664e91d9bfbc5b6f122d7c).
+[2023-05-22 09:53:07] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 09:54:27] [INFO   ] discord.client: logging in using static token
+[2023-05-22 09:54:27] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 09:54:29] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: d98bc9e61a57193c1b589e940ec793d2).
+[2023-05-22 09:54:31] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:01:29] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:01:30] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:01:31] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0fb2b213446333d7e868c3f0f73a6b0a).
+[2023-05-22 10:01:33] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:07:35] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:07:36] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:07:38] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 375028c1e8ad7a6d7189baa1370864c0).
+[2023-05-22 10:07:40] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:09:45] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:09:46] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:09:46] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 975befcb56b7879902a15cd65ceb4b96).
+[2023-05-22 10:09:48] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:10:36] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:10:37] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:10:37] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: c89d0475d8ef00e257f69cbacf141d76).
+[2023-05-22 10:10:39] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:11:24] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:11:24] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:11:25] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7287ac0daac3e4c892d30ece1e165802).
+[2023-05-22 10:11:27] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:20:31] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:20:31] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:20:33] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: cd4901412ed293d14a9fe96b3d0660c0).
+[2023-05-22 10:20:35] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:23:59] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:23:59] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:24:00] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ae62aa5c26680f96de1180c928609a32).
+[2023-05-22 10:24:02] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:26:08] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:26:09] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:26:09] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f2093bcae83f25846941c8954c37de85).
+[2023-05-22 10:26:11] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:30:03] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:30:04] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:30:05] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1ba722d150606c526afd58f9be4adea8).
+[2023-05-22 10:30:07] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:30:38] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:30:39] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:30:40] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 2c4a7beb6aa0dfb40bc5fbbddbdd0fe9).
+[2023-05-22 10:30:42] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:38:56] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:38:57] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:38:58] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e638fa16c4ac8caef40eb1463dbbcc2d).
+[2023-05-22 10:39:00] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:40:40] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:40:40] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:40:41] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1c6ce11cbad53a1aa41ce89723591e17).
+[2023-05-22 10:40:43] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:43:09] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:43:10] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:43:11] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 79efbfb7c4964755301298c645b007bc).
+[2023-05-22 10:43:13] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 10:50:01] [INFO   ] discord.client: logging in using static token
+[2023-05-22 10:50:01] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 10:50:02] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0a854d889b9c3318392b81e4db9ba830).
+[2023-05-22 10:50:04] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 21:16:20] [INFO   ] discord.client: logging in using static token
+[2023-05-22 21:16:20] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 21:16:22] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 61be02df985bdfd5acc2253a7914a83f).
+[2023-05-22 21:16:24] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 21:29:18] [INFO   ] discord.client: logging in using static token
+[2023-05-22 21:29:18] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 21:29:19] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 3f5e68f63beb89c826c1997a7c194ad0).
+[2023-05-22 21:29:21] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 21:30:25] [INFO   ] discord.client: logging in using static token
+[2023-05-22 21:30:25] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 21:30:26] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 97b6cdf278fbbd7c6b98799756c78bb7).
+[2023-05-22 21:30:28] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-05-22 21:32:54] [INFO   ] discord.client: logging in using static token
+[2023-05-22 21:32:54] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-05-22 21:32:55] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f8194aa3e4a815e53816bea563bd599c).
+[2023-05-22 21:32:57] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-05 20:22:23] [INFO   ] discord.client: logging in using static token
+[2023-06-05 20:22:24] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-05 20:22:26] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 57dfd35c109d924eb92062f82788217b).
+[2023-06-05 20:22:28] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-05 20:54:13] [INFO   ] discord.client: logging in using static token
+[2023-06-05 20:54:14] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-05 20:54:16] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ff6feb94ebed337c7c3bec85b45d8a5c).
+[2023-06-05 20:54:18] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-05 20:55:33] [INFO   ] discord.client: logging in using static token
+[2023-06-05 20:55:33] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-05 20:55:34] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e1f4ba545b8fdc680751b13ea9ef7561).
+[2023-06-05 20:55:36] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-05 20:56:36] [INFO   ] discord.client: logging in using static token
+[2023-06-05 20:56:37] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-05 20:56:37] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: cab7115db224dda12adaf7fc62b9b7f9).
+[2023-06-05 20:56:39] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-05 20:57:05] [INFO   ] discord.client: logging in using static token
+[2023-06-05 20:57:06] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-05 20:57:06] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 4d3eb7a4864cf92287701606a69db993).
+[2023-06-05 20:57:08] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:35:55] [INFO   ] discord.client: logging in using static token
+[2023-06-07 12:35:55] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:35:56] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 62029b79bc7637a1d9deeddd4a90017c).
+[2023-06-07 12:35:58] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:39:58] [INFO   ] discord.client: logging in using static token
+[2023-06-07 12:39:59] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:39:59] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: d1836691df978138576d0debb8ec2f31).
+[2023-06-07 12:40:01] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:40:31] [INFO   ] discord.client: logging in using static token
+[2023-06-07 12:40:32] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:40:32] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 186d78d01d852e720dc0eb1f555cadb3).
+[2023-06-07 12:40:34] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:41:08] [INFO   ] discord.client: logging in using static token
+[2023-06-07 12:41:09] [INFO   ] uni.cog: Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:41:09] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 27477c580c25b5dbfd1c0865a79c66e4).
+[2023-06-07 12:41:11] [INFO   ] uni.bot: Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:42:27] [INFO   ] discord.client: logging in using static token
+[2023-06-07 12:42:27] [INFO   ] uni.cog: 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:42:28] [INFO   ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 929fe6ff87431112423b9cfe1093a418).
+[2023-06-07 12:42:30] [INFO   ] uni.bot: 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:43:26] [INFO   ] discord.client:
+ logging in using static token
+[2023-06-07 12:43:26] [INFO   ] uni.cog:
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:43:27] [INFO   ] discord.gateway:
+ Shard ID None has connected to Gateway (Session ID: a84a634bcee2821feb0f575a698194c0).
+[2023-06-07 12:43:29] [INFO   ] uni.bot:
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:45:03] [INFO   ] discord.client:
+ logging in using static token
+[2023-06-07 12:45:04] [INFO   ] uni.cog:
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:45:04] [INFO   ] discord.gateway:
+ Shard ID None has connected to Gateway (Session ID: 1367ba24d265ae9dec2c7e15194f6da5).
+[2023-06-07 12:45:06] [INFO   ] uni.bot:
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:48:27] [INFO   ] discord.client
+ logging in using static token
+[2023-06-07 12:48:27] [INFO   ] uni.cog
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:48:27] [INFO   ] discord.gateway
+ Shard ID None has connected to Gateway (Session ID: 1074bfd96eb733968c2aedf9fa46c60b).
+[2023-06-07 12:48:29] [INFO   ] uni.bot
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:49:24] [INFO   ] discord.client:\n logging in using static token
+[2023-06-07 12:49:24] [INFO   ] uni.cog:\n 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:49:25] [INFO   ] discord.gateway:\n Shard ID None has connected to Gateway (Session ID: 8b3ef9ceefb996da132b97bb27b38a31).
+[2023-06-07 12:49:27] [INFO   ] uni.bot:\n 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:50:21] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 12:50:22] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:50:22] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 1f2d0a1ddc4432eab96f2d6fa6bdb39c).
+[2023-06-07 12:50:24] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 12:54:48] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 12:54:49] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 12:54:49] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: c3a391f0358166911da920d728595c71).
+[2023-06-07 12:54:51] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:04:29] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:04:29] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:04:30] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: e50b3ddbc3badc29ca2cdbc2f3733e30).
+[2023-06-07 13:04:32] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:06:03] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:06:03] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:06:03] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: f3f829c361a55a604af6ee083e8efa5a).
+[2023-06-07 13:06:05] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:07:00] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:07:00] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:07:01] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 49dd6d4bf742dc6299bc11828d32b7b3).
+[2023-06-07 13:07:03] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:07:36] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:07:36] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:07:37] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 5e5b33038ea89e26c9f63b2e3b4d8dbd).
+[2023-06-07 13:07:39] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:08:09] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:08:09] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:08:09] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: f129d62b26547f98143fa8fc4c5a55cc).
+[2023-06-07 13:08:11] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:08:51] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:08:51] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:08:52] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: bb67b036eaaebea182fe414a675a81aa).
+[2023-06-07 13:08:54] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:09:22] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:09:22] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:09:23] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 4be01ea72368d9bd71b80385f5237bc3).
+[2023-06-07 13:09:25] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:10:06] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:10:06] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:10:07] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: f8e7121e3bdd14d498f2b96efa3028a2).
+[2023-06-07 13:10:09] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:12:30] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:12:30] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:12:30] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 1572e6b188648a3ff8842c18f06cca16).
+[2023-06-07 13:12:32] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:13:30] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:13:30] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:13:31] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 6397e6ec6541393f730be059c3460629).
+[2023-06-07 13:13:33] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:14:14] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:14:14] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:14:15] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 17168f3e8ee96b341ac551bea09a149a).
+[2023-06-07 13:14:17] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:14:41] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:14:41] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:14:42] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 104f29fe299eb1c60d1d7bd2049e4400).
+[2023-06-07 13:14:44] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:15:26] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:15:26] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:15:27] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: d2a1ff842f79df8dd9623e1cd19b3d83).
+[2023-06-07 13:15:29] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:16:06] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:16:07] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:16:07] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 0227af2ffbdc7d24e59a034600db0c53).
+[2023-06-07 13:16:09] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:17:00] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:17:00] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:17:01] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: f4e4876ec08ba3dbac401067a7817ec7).
+[2023-06-07 13:17:03] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:17:24] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:17:24] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:17:24] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: aeffecf0ae62f25e19c3209aa1932fc8).
+[2023-06-07 13:17:26] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:22:29] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:22:29] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:22:31] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 5f11a5fba315f2ede03c7cf30f0763a3).
+[2023-06-07 13:22:33] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:23:02] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:23:02] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:23:03] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: ea1963df65205ff2644ded5d6e5fa8c1).
+[2023-06-07 13:23:05] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:23:26] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:23:27] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:23:27] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: cc0381a1e2aa81e63ac2bcb64140d414).
+[2023-06-07 13:23:29] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:24:10] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:24:10] [INFO   ] uni.cog:\
+ 
+Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:24:11] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 59a36c6673c5587fb706c43cfd3ad41a).
+[2023-06-07 13:24:13] [INFO   ] uni.bot:\
+ 
+Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:25:09] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:25:09] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:25:10] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: f840755e6583e9c3629fa8dbd827a5c4).
+[2023-06-07 13:25:12] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:32:57] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:32:57] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:32:59] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 14784981cc09c0c1e484daae685494bf).
+[2023-06-07 13:33:01] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:46:34] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:46:35] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:46:36] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 78e636608f1382f0f762d634078e9edb).
+[2023-06-07 13:46:38] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:49:07] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 13:49:08] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 13:49:08] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 158ec4f267dd0007c5d0da9ad5fc42f3).
+[2023-06-07 13:49:10] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 13:50:58] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:08] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:09] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:11] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:13] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:16] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:37] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:51] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:55] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:57] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:51:58] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:05] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:07] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:11] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:13] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:17] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:19] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:47] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:53] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:52:55] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:53:00] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:53:06] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:53:12] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:53:25] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:53:32] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 13:53:32] [ERROR  ] asyncio:\
+ Task exception was never retrieved
+future: <Task finished name='Task-53' coro=<Watcher._start() done, defined at /home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/cogwatch/cogwatch.py:153> exception=ExtensionFailed("Extension 'exts.info' raised an error: ClientException: Cog named 'Utility' already loaded")>
+Traceback (most recent call last):
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 947, in _load_from_module_spec
+    await setup(self)
+  File "/home/runner/Uni-Rewrite/exts/info.py", line 14, in setup
+    await bot.add_cog(
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 777, in add_cog
+    raise discord.ClientException(f'Cog named {cog_name!r} already loaded')
+discord.errors.ClientException: Cog named 'Utility' already loaded
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/cogwatch/cogwatch.py", line 176, in _start
+    await self.load(cog_dir)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/cogwatch/cogwatch.py", line 239, in load
+    await future
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 952, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'exts.info' raised an error: ClientException: Cog named 'Utility' already loaded
+[2023-06-07 14:05:45] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 14:05:45] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:05:45] [INFO   ] uni.cog:\
+ Unloaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:06:27] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 14:06:28] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:06:28] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mINFORMATION[0m
+[2023-06-07 14:06:28] [INFO   ] uni.cog:\
+ Unloaded cog: [1m[32mINFORMATION[0m
+[2023-06-07 14:06:28] [INFO   ] uni.cog:\
+ Unloaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:07:12] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 14:07:13] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:07:13] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mINFORMATION[0m
+[2023-06-07 14:07:13] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 4deb678d607a1f04410d116859e60287).
+[2023-06-07 14:07:15] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 14:08:28] [ERROR  ] discord.ext.commands.bot:\
+ Ignoring exception in command jishaku
+Traceback (most recent call last):
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1647, in invoke
+    await super().invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1015, in invoke
+    await self.prepare(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 932, in prepare
+    await self._parse_arguments(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 860, in _parse_arguments
+    raise TooManyArguments('Too many arguments passed to ' + self.qualified_name)
+discord.ext.commands.errors.TooManyArguments: Too many arguments passed to jishaku
+[2023-06-07 14:09:05] [ERROR  ] discord.ext.commands.bot:\
+ Ignoring exception in command jishaku
+Traceback (most recent call last):
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1647, in invoke
+    await super().invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1015, in invoke
+    await self.prepare(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 932, in prepare
+    await self._parse_arguments(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 860, in _parse_arguments
+    raise TooManyArguments('Too many arguments passed to ' + self.qualified_name)
+discord.ext.commands.errors.TooManyArguments: Too many arguments passed to jishaku
+[2023-06-07 14:11:02] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 14:11:02] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:11:02] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mINFORMATION[0m
+[2023-06-07 14:11:03] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 425548c340647df189e8c43f3525d18d).
+[2023-06-07 14:11:05] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 14:11:17] [ERROR  ] discord.ext.commands.bot:\
+ Ignoring exception in command jishaku
+Traceback (most recent call last):
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1647, in invoke
+    await super().invoke(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 1015, in invoke
+    await self.prepare(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 932, in prepare
+    await self._parse_arguments(ctx)
+  File "/home/runner/Uni-Rewrite/venv/lib/python3.10/site-packages/discord/ext/commands/core.py", line 860, in _parse_arguments
+    raise TooManyArguments('Too many arguments passed to ' + self.qualified_name)
+discord.ext.commands.errors.TooManyArguments: Too many arguments passed to jishaku
+[2023-06-07 14:27:10] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 14:27:11] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:27:11] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mINFORMATION[0m
+[2023-06-07 14:27:12] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 6eef34db1438823de5337fdccc456b1f).
+[2023-06-07 14:27:14] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 14:44:06] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 14:44:06] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 14:44:06] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mINFORMATION[0m
+[2023-06-07 14:44:07] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: 4fc5b8a55e5912ebc90be98f86f0b961).
+[2023-06-07 14:44:09] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
