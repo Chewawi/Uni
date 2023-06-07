@@ -736,3 +736,27 @@ discord.ext.commands.errors.TooManyArguments: Too many arguments passed to jisha
  Shard ID None has connected to Gateway (Session ID: 4fc5b8a55e5912ebc90be98f86f0b961).
 [2023-06-07 14:44:09] [INFO   ] uni.bot:\
  Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 17:52:19] [INFO   ] discord.client:\
+ logging in using static token
+[2023-06-07 17:52:19] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mUTILITY[0m
+[2023-06-07 17:52:19] [INFO   ] uni.cog:\
+ Loaded cog: [1m[32mINFORMATION[0m
+[2023-06-07 17:52:20] [INFO   ] discord.gateway:\
+ Shard ID None has connected to Gateway (Session ID: ee0e0548dd60ec0b0d2ca552a06ba268).
+[2023-06-07 17:52:22] [INFO   ] uni.bot:\
+ Ready: Uni Beta#1245 (ID: 1041763395541663754)
+[2023-06-07 18:00:25] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 18:00:34] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 18:00:36] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 18:00:38] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 18:00:41] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 18:00:43] [INFO   ] watchfiles.main:\
+ 1 change detected
+[2023-06-07 18:00:46] [INFO   ] watchfiles.main:\
+ 1 change detected
